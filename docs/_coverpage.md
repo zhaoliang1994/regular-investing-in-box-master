@@ -1,16 +1,11 @@
-# On Regular Investing
-李笑来（著）©2019 第三版
+# 黄帝内经阅读词典
+©2020 第一版
 
-rewritten in English by John Gordon & Xiaolai Li
-
-* [点击阅读中文版](/cn/) 
-* [Click to read English edition](/en/) 
-* 此书第二版已由果麦文化印刷发行
-    * [当当购买链接](http://product.dangdang.com/28493272.html?_utm_ad_id=83757)
-    * [京东购买链接](https://item.jd.com/12605781.html)
-
-
-
-Regular investing is quite simple: 
-
-Regularly invest a set amount in a particular investment over a long period of time.
+<img src="images/Huand_Di.jpg" />
+* [点击阅读第一章](/1/) 
+* [点击阅读第二章](/2/) 
+* [点击阅读第三章](/3/) 
+* [点击阅读第四章](/4/) 
+* [点击阅读第五章](/5/) 
+* [点击阅读第六章](/6/) 
+* [点击阅读第七章](/7/) 
