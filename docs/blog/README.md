@@ -14,11 +14,11 @@
 
 2017.9–2020.7           南京中医药大学 中医外科学    （专硕）
 
-
-
+<br>
+<br>
+<br>
 
 # 黄帝内经阅读词典的实施过程
-
 ### **1.环境搭建**
 
 计算机安装：Python 3.7（程序设计平台）、sublime3（代码编辑器）、calibre（文本转换软件）jieba（分词功能的开源项目）【[https://github.com/fxsjy/jieba](https://github.com/fxsjy/jieba)】、文言文词库【[https://github.com/The-Orizon/nlputils/blob/master/jiebazhc/dict.txt](https://github.com/The-Orizon/nlputils/blob/master/jiebazhc/dict.txt)】
