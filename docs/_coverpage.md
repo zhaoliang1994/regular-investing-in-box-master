@@ -1,7 +1,7 @@
 # 黄帝内经阅读词典
 ©2020 第一版
 
-<img src="images/Huand_Di.jpg" align="left" />
+<img src="images/Huand_Di.jpg" />
 
 * [第一章 点击阅读](/1/) 
 * [第二章 点击阅读](/2/) 
